@@ -14,7 +14,7 @@
         "cli-color": "1.1.0",
         "cryptonote-util": "git://github.com/orthtech/node-cryptonote-util.git#xmr-Nan-2.0",
         "dateformat": "1.0.12",
-        "multi-hashing": "git://github.com/orthtech/node-multi-hashing.git#node-new",
+        "multi-hashing": "git://github.com/orthtech/node-multi-hashing.git#node-nan",
         "redis": "0.12.1"
     },
     "engines": {
